@@ -1,0 +1,69 @@
+body{
+    background-color:navy;
+}
+#top{
+    display:flex;
+    justify-content:space-around;
+}
+h1{
+    text-align:center;
+}
+#netflix{
+    width:350px;
+    height:300px;
+    display:none;
+}
+
+#why{
+    background-color:red;
+}
+
+#one{
+    display:flex;
+    justify-content:center;
+}
+#two{
+    display:flex;
+    justify-content:center;
+}
+
+#oof{
+    display:flex;
+    justify-content:center;
+}
+
+#oof2{
+    display:flex;
+    justify-content:center;
+}
+
+#bunny{
+    width:350px;
+    height:300px;
+}
+
+#magicBunny{
+    background-color:pink;
+}
+
+#card1{
+    display:flex;
+    justify-content:center;
+}
+#card2{
+    display:flex;
+    justify-content:center;
+}
+#cards{
+    width:350px;
+    height:300px;
+}
+
+#pickacard{
+    background-color:orange;
+}
+
+.magician{
+    width:100px;
+    height:100px;
+}
